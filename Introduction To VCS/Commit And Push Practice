@@ -41,7 +41,20 @@
     <h1>Welcome to My Pharmaceutical Landing Page</h1>
     <p>This is a simple landing page created using HTML.</p>
     <a href="#" class="button">Click Me</a>
-
+    <div class="container">
+        <div class="box">
+            <h2>Box 1</h2>
+            <p>This is the first box.</p>
+        </div>
+        <div class="box">
+            <h2>Box 2</h2>
+            <p>This is the second box.</p>
+        </div>
+        <div class="box">
+            <h2>Box 3</h2>
+            <p>This is the third box.</p>
+        </div>
+    </div>
   
 </body>
 </html>
