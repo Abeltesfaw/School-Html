@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Pharmaceutical Landing Page</title>
+    <title>Abel Landing Page</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -38,15 +38,8 @@
     </style>
 </head>
 <body>
-    <h1>Welcome to My Pharmaceutical Landing Page</h1>
+    <h1>Welcome to my own landing page with no</h1>
     <p>This is a simple landing page created using HTML.</p>
-    <a href="#" class="button">Click Me</a>
-
-    <script>
-        var button = document.querySelector('.button');
-        button.addEventListener('click', function() {
-            alert('Button clicked!');
-        });
-    </script>
+    <button>Click Me for Interaction</button>
 </body>
 </html>
